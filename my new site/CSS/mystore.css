@@ -1,0 +1,59 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #494949;
+}
+
+.my_face{
+    padding: 0 0 0 0;
+    height: 500px;
+}
+
+/* левая часть */
+
+.zaholovok{
+    color: rgb(94, 156, 0);
+}
+
+.main-content-section{
+    background-color: #000000;
+    float: left;
+    padding: 20px 60px;
+    margin: 40px 0 50px 30px;
+}
+
+/* текст */
+
+.text_left{
+    color: rgb(146, 66, 0);
+
+}
+
+.text_left_green{
+    color: rgb(94, 156, 0);
+}
+
+/* правая часть */
+
+.sidebar-section{
+    float: left;
+    background-color: #1E2939 ;
+    width: 370px;
+    margin: 40px 0 50px 0;
+    padding: 20px 10px;
+}
+
+.text_p{
+    color: seagreen;
+}
+
+.my_fert_text{
+    color: #7b9e6c;
+}
+
+.gaymer{
+    color: pink;
+}
+
+.World_of_tanks{
+    color: red;
+}
